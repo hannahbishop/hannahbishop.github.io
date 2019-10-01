@@ -33,11 +33,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
-<<<<<<< HEAD
     "node-sass": "^4.12.0",
     "react-helmet": "^5.2.1"
-=======
-    "node-sass": "^4.12.0"
->>>>>>> 4e25a3b2464a0585f6cedd1b2d1097cccb89c6c2
   }
 }
