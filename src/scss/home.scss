@@ -28,6 +28,11 @@
   background: $button-color-gray;
   border-radius: 25px;
   color: $font-color-white;
+  transition: 0.3s ease;
+}
+
+.btn-link:hover {
+  opacity: 0.5;
 }
 
 img {
