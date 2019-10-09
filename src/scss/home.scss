@@ -24,7 +24,7 @@
   display: inline-block;
   text-align: left;    
   vertical-align: top;
-  padding-right: 50px;
+  margin: 4em 5em 0 0;
 }
 
 .illustration {
@@ -35,7 +35,7 @@
 @media only screen and (max-width: 1050px) {
   .title-card__text {
     text-align: center;
-    margin-bottom: 100px;
+    margin: 0 0 8em 0;
     width: 100%;
   }
 
